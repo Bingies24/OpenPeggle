@@ -1,5 +1,5 @@
 # OpenPeggle
-It's Peggle, like what did you expect?
+It's Peggle in Unity, made from scratch.
 
 ----------------------------------------
 
